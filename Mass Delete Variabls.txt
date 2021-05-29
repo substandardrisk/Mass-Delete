@@ -1,0 +1,6 @@
+var authToken = "TOKEN";
+var authorId = "ID";
+var channelId = "ID";
+var firstMessageId = "";
+
+deleteMessages(authToken, authorId, channelId, firstMessageId); //start
